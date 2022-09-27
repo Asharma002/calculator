@@ -1,0 +1,31 @@
+*{
+   background-color:black;
+}
+.inp
+{
+    color:aqua;
+}
+.container{
+    text-align: center;
+    color:white
+    
+  
+}
+table{
+    padding:5vh;
+    margin:auto;
+    color:white;
+   
+
+}
+td {
+    
+    color: white;
+  }
+  button{
+    color:white;
+    background-color: rgb(68, 50, 234);
+    font-size: 23px;
+    width:45px;
+
+  }
